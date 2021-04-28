@@ -5,13 +5,9 @@
 [**WB Collab**](https://ggnbwhiteboard.rocks/)
 (Whiteboard Collaborate)
 
-## Hosted
-
-https://ggnbwhiteboard.rocks/
-
 ## API Documentation
 
-[Under Documentation/API_Documentation.md](https://github.com/UTSCC09/project-ggnb/blob/main/doc/API%20Documentation.md)
+[Under Documentation/API_Documentation.md](https://github.com/Diego2941/project-ggnb/blob/main/doc/API%20Documentation.md)
 
 ## Demo Video
 
@@ -19,11 +15,13 @@ https://youtu.be/m4VAdPI4e_U
 
 ## Team Members
 
-| First Name | Last Name |Student Number |
-|------------|-----------|---------------|
-| Hongming   | Li        | 1004135624    |
-| Diego      | He        | 1004264547    |
-| Han-Shin   | Chen      | 1005403957    |
+* [@Hongming Li](https://github.com/HomingL)
+* [@Han-Shin Chen](https://github.com/HensonChen)
+* [@Diego He](https://github.com/Diego2941)
+
+## Credit
+
+[Credits Doc](https://github.com/Diego2941/project-ggnb/blob/main/doc/Credits.md)
 
 ##### Note: How to run the app is at the bottom of the file.
 ---
@@ -185,8 +183,3 @@ npm run start
 ```
 
 The app is hosted at http://localhost:3000
-
-
-## Credit
-
-[Credits Doc](https://github.com/UTSCC09/project-ggnb/blob/main/doc/Credits.md)
